@@ -8,9 +8,10 @@ I'm a full stack web developer with a keen interest in all things web and AI. Wh
 ## 🌟 Top Skills
 - Web Development (Frontend & Backend)
 - AI-related Topics & Integrations
+- Kubernetes and containerization skills
 
 ## 🚗 Featured Project
-[**GTRNews**](https://github.com/Benedek553/GTR-News)  
+[**GTRNews**](https://github.io/Benedek553/GTR-News)  
 Your AI-boosted automotive news portal — blending the latest in cars and technology with smart news delivery!
 
 ## ☕ Support Me
