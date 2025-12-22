@@ -1,25 +1,31 @@
-# Hi there, I'm Benedek553 👋
+# Hi, I'm Benedek 👋
 
-🚀 **Full Stack Web Developer** passionate about web technologies and building smart, scalable solutions.
+DevOps Engineer and software developer with a strong focus on automation, CI/CD, and cloud-native workflows. I build clean, fast, and maintainable tools, and I actively maintain open-source projects.
 
-## 👨‍💻 About Me
-I'm a full stack web developer with a keen interest in all things web and AI. Whether it's crafting intuitive user interfaces or engineering robust backends, I love transforming ideas into impactful digital experiences.
+## 🔧 What I do
 
-## 🌟 Top Skills
-- Web Development (Frontend & Backend)
-- AI-related Topics & Integrations
-- Kubernetes and containerization skills
+* Design and maintain **CI/CD pipelines**
+* Build **cloud-ready applications** (Azure-first, multicloud mindset)
+* Develop **CLI tools and system-level software**
+* Focus on **automation, reliability, and performance**
 
-## 🚗 Featured Project
-[**GTRNews**](https://benedek553.github.io/GTR-News/ )  
-Your AI-boosted automotive news portal — blending the latest in cars and technology with smart news delivery!
+## 🧩 Open Source
 
-## ☕ Support Me
-If you like my work, consider buying me a coffee!  
-[buymeacoffee.com/Benedek553](https://buymeacoffee.com/Benedek553)
+* **[CLI Calculator](github.com/benedek553/cli-calculator)** – a modern, actively maintained C++ CLI calculator with frequent releases and strong automation
+
+## 🛠 Tech Stack
+
+* Languages: C++, Bash, Python
+* Cloud: Microsoft Azure
+* DevOps: GitHub Actions, Docker, CI/CD automation
+* Tooling: Linux, Git, CMake
+
+## 🎯 Interests
+
+* DevOps & Platform Engineering
+* Systems programming
+* Developer productivity
 
 ---
 
-<!--
-**Benedek553/Benedek553** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+> Building things that are simple to use, hard to break.
