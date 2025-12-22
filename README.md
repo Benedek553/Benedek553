@@ -15,7 +15,7 @@ DevOps Engineer and software developer with a strong focus on automation, CI/CD,
 
 ## 🛠 Tech Stack
 
-* Languages: C++, Bash, Python, JavaScript
+* Languages: C++, Bash, Python, JavaScript, React
 * Cloud: Microsoft Azure, Google Cloud
 * DevOps: GitHub Actions, Docker, CI/CD automation
 * Tooling: Linux, Git, CMake
